@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>🐲 ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt 🐲</b>
+  <b>🐲 LITTLE DRAGON OF SHAIL 🐲</b>
 </h6>
 
 <h3 align="center">
