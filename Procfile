@@ -1,1 +1,1 @@
-worker: bash Hellbot
+worker: shail the dragon
