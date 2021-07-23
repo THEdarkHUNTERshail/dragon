@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê DRAGON🐲</b>
+  <b>🐲 DRAGON🐲</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>🐲 ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt 🐲</b>
 </h6>
 
 <h3 align="center">
@@ -35,7 +35,7 @@
 
 
 ------
-## Deploy To Heroku
+## 🐲Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/the-DRAGbot/🐲bot)
