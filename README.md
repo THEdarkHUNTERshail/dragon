@@ -85,7 +85,7 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your 🐲DRAGON 🐲 Session Will be saved in your Telegram Saved Message.
 - [![Replit](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
