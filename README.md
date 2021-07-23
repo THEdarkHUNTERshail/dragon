@@ -15,11 +15,11 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+[![GitHub forks](https://img.shields.io/github/forks/The-dragon/🐲Bot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/The-🐲/🐲Bot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/The-🐉Bot/🐲Bot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-🐲Bot/🐲Bot?&style=flat-square&logo=github)](https://github.com/The-DRAG/🐲Bot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-DRAG/🐲Bot?color=Pink&label=Language&style=flat-square)
@@ -86,7 +86,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
 - Open the terminal.
@@ -97,7 +97,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your DRAGON OF SHAIL Session Will be saved in your Telegram Saved Message.
+- Your 🐲DRAGON OF SHAIL Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
@@ -116,10 +116,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-🐲Bot">The-🐲Bot</a></h4>
 
-Project [HellBot](https://github.com/The-DRAG/🐲Bot) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
