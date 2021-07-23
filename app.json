@@ -1,27 +1,27 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "🐲DRAGON🐲",
+  "description": "DRAGON🐉 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/000b419ff41208fe63e2e.jpg",
     "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "DRAGON🐲",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/🐲Bot/🐉Bot/",
+  "website": "https://github.com/🐲Bot/",
+  "success_url": "https://t.me/🐲Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is 🐲FRIEND OF SHAIL",
+      "value": "『🐲FRIEND OF SHAIL🐲』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -55,7 +55,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "🔸"
+      "value": "🐲"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
@@ -74,10 +74,10 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @DRAGON_BOT and paste here. Value should start with -100",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "DRAGON_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your  Alive.",
       "value": "",
       "required": false
     },
